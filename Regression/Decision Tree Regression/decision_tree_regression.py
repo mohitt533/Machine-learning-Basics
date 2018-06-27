@@ -28,3 +28,4 @@ plt.title('Truth or Bluff (Decision Tree Regression Model)')
 plt.xlabel('Position level')
 plt.ylabel('Salary')
 plt.show()
+ 
